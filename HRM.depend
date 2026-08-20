@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787255145 source:c:\users\phat1\onedrive\máy tính\du-an\hrm\main.cpp
+	<iostream>
+	<windows.h>
+	<sqlext.h>
+
