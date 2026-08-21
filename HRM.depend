@@ -1,6 +1,23 @@
 # depslib dependency file v1.0
-1787255145 source:c:\users\phat1\onedrive\máy tính\du-an\hrm\main.cpp
+1787269553 source:c:\users\phat1\onedrive\máy tính\du-an\hrm\main.cpp
 	<iostream>
 	<windows.h>
+	<sqlext.h>
+	"database.h"
+
+1787289229 source:c:\users\phat1\onedrive\máy tính\du-an\hrm\database.cpp
+	"database.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<sqlext.h>
+	<sqltypes.h>
+	<sql.h>
+
+1787267961 c:\users\phat1\onedrive\máy tính\du-an\hrm\database.h
+	<string>
+	<windows.h>
+	<sql.h>
 	<sqlext.h>
 
